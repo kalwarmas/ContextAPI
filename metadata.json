@@ -1,0 +1,7 @@
+{
+  "name": "Context API Explorer",
+  "description": "A robust React application demonstrating advanced Context API usage, authentication, theme management, and API integration with reqres.in.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
